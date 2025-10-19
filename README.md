@@ -47,5 +47,16 @@ git clone https://github.com/<your-username>/fracprop-hedara.git
 cd fracprop-hedara
 
 
+### Tests
+
+## Create Property Token
+![createPropertyToken](https://github.com/user-attachments/assets/39c5e199-7152-4f17-a558-33fe3723f4aa)
+
+## Mint 100 shares
+![mint 100 shares](https://github.com/user-attachments/assets/780985d2-0a25-433e-ad16-1341810a2a29)
+
+
+
+
 
 
