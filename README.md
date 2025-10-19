@@ -46,6 +46,7 @@ Make sure you have:
 git clone https://github.com/<your-username>/fracprop-hedara.git
 cd fracprop-hedara
 
+---
 
 ### Tests
 
@@ -54,6 +55,7 @@ cd fracprop-hedara
 
 ## Mint 100 shares
 ![mint 100 shares](https://github.com/user-attachments/assets/780985d2-0a25-433e-ad16-1341810a2a29)
+
 
 
 
