@@ -30,4 +30,47 @@ It allows users to tokenize, own, and trade fractions of real estate properties 
 ---
 
 ## 🧩 Project Structure
+fracprop/
+├── backend/
+│ ├── index.js
+│ ├── package.json
+│ ├── .env
+│ └── routes/
+│
+├── frontend/
+│ ├── src/
+│ │ ├── App.jsx
+│ │ ├── main.jsx
+│ │ ├── index.css
+│ │ └── components/
+│ │ ├── ConnectWallet.jsx
+│ │ ├── CreatePropertyForm.jsx
+│ │ ├── MintSharesForm.jsx
+│ │ ├── TransferSharesForm.jsx
+│ │ └── Marketplace.jsx
+│ ├── vite.config.js
+│ ├── package.json
+│ └── tailwind.config.js
+│
+└── README.md
+---
+
+## ⚙️ Installation & Setup
+
+### 🖥️ Prerequisites
+
+Make sure you have:
+- [Node.js 18+](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [HashPack Wallet](https://www.hashpack.app/) (Testnet mode enabled)
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/fracprop-hedara.git
+cd fracprop-hedara
+
+
 
