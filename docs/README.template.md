@@ -1,7 +1,7 @@
 # fracRealEstate— Fractional Real-Estate on Hedera
 
 ## Overview
-PropShare lets property owners tokenize real estate assets as HTS fungible tokens so investors can buy fractions with low fees and fast finality.
+fracRealEstate lets property owners tokenize real estate assets as HTS fungible tokens so investors can buy fractions with low fees and fast finality.
 
 ## Features
 - Create HTS token representing shares of property
